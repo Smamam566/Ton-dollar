@@ -1,0 +1,9 @@
+
+{
+  "name": "TON$",
+  "description": "TON$",
+  "symbol": "TON$",
+  "decimals": 6,
+  "image": "meta/logo.png",
+  "default_price_usd": 3
+}

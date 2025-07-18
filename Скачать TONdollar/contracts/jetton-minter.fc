@@ -1,0 +1,7 @@
+
+#include "stdlib.fc"
+
+() main() {
+  ;; Jetton TON$ placeholder
+  return ();
+}
